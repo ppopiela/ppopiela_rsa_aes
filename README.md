@@ -1,3 +1,3 @@
 # Kryptografia i teoria kodów
 
-#Piotr Popiela RSA+AES
+Piotr Popiela RSA+AES
